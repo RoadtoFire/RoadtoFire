@@ -2,9 +2,9 @@
 
 ### Full Stack Developer (Django & React) | Disciplined Engineering
 
-I am a software engineer with a unique background as an Infantry Officer. I bridge the gap between **operational discipline** and **software development**. I don't just write code; I build resilient, scalable systems with a focus on meeting strict deadlines and client requirements.
+I am a software engineer with a strong background in high-stakes Operations & Management. I bridge the gap between operational discipline and software development. I don't just write code; I build resilient, scalable systems with a focus on meeting strict deadlines and client requirements.
 
-Currently transitioning to full-time tech, specializing in building custom SaaS platforms and interactive web applications.
+Specializing in building custom SaaS platforms and interactive web applications.
 
 ---
 
