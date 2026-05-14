@@ -50,7 +50,7 @@ A commercial-grade assessment platform built for a **paying client** in the medi
 - Complex relational data models for question banks, user progress, and scoring logic
 - Deployed and maintained on **Railway** with a production PostgreSQL instance
 
-🔗 [Live App](https://frcophth-pro-production.up.railway.app/) *(demo credentials available on request)*
+🔗 [Live App](https://frco-pro.onrender.com) *(demo credentials available on request)*
 [Repo](https://github.com/RoadtoFire/FRCOphth-Pro)
 ---
 
