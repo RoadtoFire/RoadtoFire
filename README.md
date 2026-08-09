@@ -100,11 +100,11 @@ The backend API powering [Amanat](https://amanat-psx.vercel.app) — a productio
 
 <div align="center">
 
-![Jawwad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoadtoFire&show_icons=true&theme=dark&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=0d1117)
+![Jawwad's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RoadtoFire&show_icons=true&theme=dark&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=ffffff&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoadtoFire&layout=compact&theme=dark&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RoadtoFire&layout=compact&theme=dark&hide_border=true&title_color=FF4500&text_color=ffffff&bg_color=0d1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RoadtoFire&theme=dark&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RoadtoFire&theme=dark&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&background=0d1117)
 
 </div>
 
@@ -114,7 +114,7 @@ The backend API powering [Amanat](https://amanat-psx.vercel.app) — a productio
 
 I'm actively available for:
 
-- **Freelance contracts** — Full stack web apps, API development, custom dashboards, business automation
+- **Freelance contracts** — Full stack web apps, API development, custom dashboards
 - **MVP development** — From zero to deployed, fast
 - **Full-time roles** — Remote-first, technically demanding environments preferred
 
