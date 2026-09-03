@@ -59,7 +59,7 @@ A commercial-grade quiz and assessment platform built for a **paying client** in
 - User progress tracking — past attempts, scores, and performance history persisted per user
 - Fully responsive across desktop and mobile
 
-🔗 [Live App](https://frcophth-pro-eu.onrender.com/) · [Repo](https://github.com/RoadtoFire/FRCOphth-Pro) *(demo: `demo_user` / `demo_1234`)*
+🔗 [Live App](https://frco-pro.onrender.com) · [Repo](https://github.com/RoadtoFire/FRCOphth-Pro) *(demo: `demo@frcophthpro.com` / `Demo1234!`)*
 
 ---
 
